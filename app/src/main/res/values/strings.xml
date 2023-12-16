@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Indonesian Foods</string>
+
+    <string name="about">About</string>
+    <string name="title">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="place">Daerah Asal</string>
+    <string name="ingredient">Bahan Utama</string>
+    <string name="share">Share</string>
+    <string name="username">Hernawan Abidin</string>
+    <string name="email">hernaone1245@gmail.com</string>
+
+    <string-array name="data_title">
+        <item>Mi Aceh</item>
+        <item>Bika Ambon</item>
+        <item>Rendang</item>
+        <item>Pempek</item>
+        <item>Kerak Telor</item>
+        <item>Serabi</item>
+        <item>Gudeg</item>
+        <item>Rujak Cingur</item>
+        <item>Ayam Betutu</item>
+        <item>Ayam Taliwang</item>
+        <item>Soto Banjar</item>
+        <item>Papeda</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Mi aceh adalah masakan mi pedas khas Aceh di Indonesia. Mi kuning tebal dengan irisan daging sapi, daging kambing atau makanan laut (udang dan cumi) disajikan dalam sup sejenis kari yang gurih dan pedas. Mi aceh biasanya ditaburi dengan bawang goreng dan disajikan bersama emping, potongan bawang merah, mentimun, dan jeruk nipis. Mi aceh biasanya disajikan dalam tiga bentuk yaitu mi kuah, mi goreng basah, dan mi goreng kering. Mi aceh menunjukkan sejarah budaya masyarakat Aceh dengan yang mendapat banyak pengaruh budaya asing yang membentuk wilayah Aceh. Kuah berbahan dasar kari adalah pengaruh masakan India, sedangkan mi adalah pengaruh masakan Tionghoa. Preferensi pada daging kambing dan daging sapi menunjukkan nilai Islam yang mengharuskan memakan makanan yang halal. Sedangkan preferensi pada seafood menunjukkan letak geografis Aceh yang dikelilingi perairan seperti Selat Malaka, Laut Andaman dan Samudra Hindia, juga cara hidup mayoritas penduduk Aceh sebagai pedagang, petani dan nelayan. Saat ini, tempat makan mi aceh dapat ditemukan di sebagian besar kota-kota di Indonesia, dan juga negara tetangga seperti Malaysia dan Australia.</item>
+        <item>Bika ambon adalah kue tradisional khas Medan, Indonesia. Kue ini terbuat dari bahan-bahan seperti tepung tapioka, telur, gula, dan santan. Bika ambon dimasak selama 12 jam agar dapat bertahan dalam kondisi terbaik dan sesuai apa yang diinginkan selama empat hari karena setelahnya kue tersebut mulai mengeras. Kue basah ini biasanya memiliki jaring-jaring pada bagian dalam. Bika ambon juga dijual dengan berbagai varian rasa, seperti pandan, coklat, keju, dan lain-lain. Kata "Ambon" dalam bika ambon adalah akronim dari Amplas Kebon --sebagaimana orang medan suka menyingkat kata--Dialek medan. Kisahnya; Pada zaman kolonial Belanda, para imigran yang tinggal di Daerah Amplas sisi timur sungai -- disebut Amplas Kebon-- membuat kue bikang kemudian dijual ke Kota Medan dan selanjutnya menjadi populer karena diminati oleh warga Belanda dan Tionghoa kala itu.</item>
+        <item>Rendang adalah hidangan berbahan dasar daging yang dihasilkan dari proses memasak suhu rendah dalam waktu lama dengan menggunakan aneka rempah-rempah dan santan. Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga yang tinggal hanyalah potongan daging berwarna hitam pekat dan dedak. Dalam suhu ruangan, rendang dapat bertahan hingga berminggu-minggu. Rendang yang dimasak dalam waktu yang lebih singkat dan santannya belum mengering disebut kalio, berwarna cokelat terang keemasan. Rendang dapat dijumpai di Rumah Makan Padang di seluruh dunia. Masakan ini populer di Indonesia dan negara-negara Asia Tenggara lainnya, seperti Malaysia, Singapura, Brunei, Filipina, dan Thailand. Di daerah asalnya, Minangkabau, rendang disajikan di berbagai upacara adat dan perhelatan istimewa. Meskipun rendang merupakan masakan tradisional Minangkabau, teknik memasak serta pilihan dan penggunaan bumbu rendang berbeda-beda menurut daerah.</item>
+        <item>Pempek adalah makanan yang terbuat dari daging ikan yang digiling lembut yang dicampur tepung kanji atau tepung sagu, serta komposisi beberapa bahan lain seperti telur, bawang putih yang dihaluskan, penyedap rasa, dan garam. Pempek biasanya disajikan dengan kuah yang disebut cuka yang memiliki rasa asam, manis, dan pedas. Pempek merupakan makanan khas Palembang - Sumatera Selatan. Pada tahun 1880-an, penjual biasa memikul satu keranjang penuh pempek sambil berjalan kaki berkeliling menjajakan dagangannya. Di kota nya pempek , palembang. cara makan pempek yang benar adalah dengan mengunakan mangkuk kecil sebagai tempat cukonya lalu di makan pempeknya setelah itu pempek dicocol dan cukonya diseruput untuk menambah rasanya nikmatnya.</item>
+        <item>Kerak telur adalah makanan asli daerah Jakarta (Betawi), dengan bahan-bahan beras ketan putih, telur ayam atau bebek, ebi (udang kering yang diasinkan) yang disangrai kering ditambah bawang merah goreng, lalu diberi bumbu yang dihaluskan berupa kelapa sangrai, cabai merah, kencur, jahe, merica butiran, garam dan gula pasir. Kerak telor dapat ditemukan pada hari biasa. Anda bisa menemukan kerak telor di sekitar Kota Tua, Jakarta Barat. Menurut sejarah, Kerak Telor sudah ada dari zaman kolonial Belanda, kerak telor diciptakan oleh masyarakat Betawi secara tak sengaja Pada tahun 1970-an.</item>
+        <item>Serabi adalah jajanan tradisional yang berasal dari Indonesia yang diperkirakan sudah dikenal sejak zaman Kerajaan Mataram. Panganan ini beberapa kali disebut dalam Serat Centhini, yang ditulis para pujangga keraton Surakarta selama 1814-1823 atas perintah Pakubuwana V, sebagai sesaji dalam prosesi ijab atau pernikahan, ruwahan, dan terutama kudapan. Pada tembang (pupuh) ke-157 bait 18,  diceritakan bahwa serabi merupakan salah satu dari sekian banyak jenis jajanan yang dijajakan di halaman rumah pada saat pertunjukan wayang kulit di malam hari. Disebutkan pula, bahwa sembilan macam serabi juga merupakan bagian dari aneka penganan yang perlu disiapkan sebagai sajen dalam pertunjukan wayang dan ruwatan (Pupuh 157:7-8). Pakar kuliner, Bondan Winarno mengatakan bahwa kemungkinan makanan ini mendapat pengaruh dari budaya kuliner India dan juga Belanda. Di Jawa Barat, serabi dikenal dengan nama surabi atau sorabi. Serabi yang terkenal di Indonesia adalah serabi Bandung dan serabi Solo.</item>
+        <item>Gudeg (Jawa: ꦒꦸꦝꦼꦒ꧀, translit. Gudhěg) adalah hidangan khas Provinsi Daerah Istimewa Yogyakarta yang terbuat dari nangka muda yang dimasak dengan santan. Perlu waktu berjam-jam untuk membuat hidangan ini. Warna cokelat biasanya dihasilkan oleh daun jati yang dimasak bersamaan. Gudeg biasanya dimakan dengan nasi dan disajikan dengan kuah santan kental (areh), ayam kampung, telur, tempe, tahu, dan sambal goreng krecek. Gudeg sangat populer di Jawa, hidangan ini merupakan hidangan populer baik sebagai masakan rumahan maupun hidangan jalanan. Gudeg juga diproduksi secara industri sebagai makanan kaleng. Gudeg juga bisa ditemui di luar Indonesia, khususnya di negara tetangga seperti Malaysia dan Singapura.</item>
+        <item>Rujak cingur adalah salah satu makanan tradisional yang mudah ditemukan di daerah Jawa Timur, terutama di daerah asalnya Surabaya. Dalam bahasa Jawa , kata cingur berarti "mulut", hal ini merujuk pada bahan irisan mulut atau moncong sapi yang direbus dan dicampurkan ke dalam hidangan. Rujak cingur biasanya terdiri dari irisan beberapa jenis buah seperti timun, kerahi (krai, yaitu sejenis timun khas Jawa Timur), bengkuang, mangga muda, nanas, kedondong, kemudian ditambah lontong, tahu, tempe, bendoyo, cingur, serta sayuran seperti kecambah/taoge, kangkung, dan kacang panjang. Semua bahan tadi dicampur dengan saus atau bumbu yang terbuat dari olahan petis udang, air matang untuk sedikit mengencerkan, gula/gula merah, cabai, kacang tanah yang digoreng, bawang goreng, garam, dan irisan tipis pisang biji hijau yang masih muda (pisang klutuk). Semua saus/bumbu dicampur dengan cara diulek, kemudian diberi topping cingur. Jika tanpa cingur maka rujak ini disebut rujak ulek.</item>
+        <item>Ayam Betutu adalah makanan tradisional khas Bali yang terbuat dari ayam atau bebek utuh yang berisi bumbu, kemudian dipanggang dalam api sekam. Ayam betutu merupakan jenis lauk pauk yang dibuat dari daging ayam yang telah dibersihkan, kemudian dibalurkan bumbu khas Bali yang dikenal dengan "base genep" di seluruh permukaan daging ayam dan sebagian lagi dimasukkan ke dalam rongga abdomennya. Daging ayam yang telah dibumbui kemudian direbus atau langsung dibakar hingga menghasilkan aroma yang khas. Aroma yang muncul disebabkan karena adanya pemanasan yang menyebabkan air dan lemak daging ikut menguap. Semakin banyak uap yang dihasilkan, semakin kuat dan enak aromanya.</item>
+        <item>Ayam Taliwang adalah makanan khas yang berasal dari Karang Taliwang, Mataram, Nusa Tenggara Barat. Makanan ini berbahan dasar daging ayam. Daging ayam yang disajikan berasal dari ayam kampung muda yang dibakar kemudian dibumbui dengan semacam saus yang bahannya antara lain cabai merah kering, bawang merah, bawang putih, tomat, terasi goreng, kencur, gula merah, dan garam. Makanan ini biasanya disajikan bersama makanan khas Lombok yang lain, misalnya plecing kangkung.</item>
+        <item>Soto Banjar adalah soto khas suku Banjar, Kalimantan Selatan dengan bahan utama daging ayam serta memiliki aroma harum rempah-rempah seperti kayu manis, biji pala, dan cengkih. Soto ini berisi daging ayam yang sudah disuwir-suwir, dengan tambahan perkedel, kentang rebus, rebusan telur, potongan wortel dan ketupat. Seperti halnya soto ayam, bumbu soto Banjar berupa bawang merah, bawang putih dan merica, tetapi tidak memakai kunyit. Bumbu ditumis lebih dulu dengan sedikit minyak goreng atau minyak samin hingga harum sebelum dimasukkan ke dalam kuah rebusan ayam. Rempah-rempah nantinya diangkat agar tidak ikut masuk ke dalam mangkuk sewaktu dihidangkan. Penjual soto Banjar biasanya juga menyajikan sate ayam sebagai menu pendamping. Nasi sop adalah sebutan untuk soto Banjar yang dikuahkan ke sepiring nasi.</item>
+        <item>Papeda adalah makanan berupa bubur sagu khas Maluku dan Papua yang biasanya disajikan dengan ikan tongkol atau mubara yang dibumbui dengan kunyit. Papeda berwarna putih dan bertekstur lengket menyerupai lem dengan rasa yang tawar. Papeda merupakan makanan yang kaya serat, rendah kolesterol, dan cukup bernutrisi. Di berbagai wilayah pesisir dan dataran rendah di Papua, sagu merupakan bahan dasar dalam berbagai makanan.[3] Sagu bakar, sagu lempeng, dan sagu bola menjadi sajian yang paling banyak dikenal di berbagai pelosok Papua, khususnya dalam tradisi kuliner masyarakat adat di Kabupaten Mappi, Asmat, hingga Mimika.[3] Papeda merupakan salah satu sajian khas sagu yang jarang ditemukan.[3] Antropolog sekaligus Ketua Lembaga Riset Papua, Johszua Robert Mansoben, menyatakan bahwa papeda dikenal lebih luas dalam tradisi masyarakat adat Sentani dan Abrab di Danau Sentani dan Arso, serta Manokwari</item>
+    </string-array>
+
+    <string-array name="data_img">
+        <item>@drawable/mi_aceh</item>
+        <item>@drawable/bika_ambon</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/pempek</item>
+        <item>@drawable/kerak_telor</item>
+        <item>@drawable/serabi</item>
+        <item>@drawable/gudeg</item>
+        <item>@drawable/rujak_cingur</item>
+        <item>@drawable/ayam_betutu</item>
+        <item>@drawable/ayam_taliwang</item>
+        <item>@drawable/soto_banjar</item>
+        <item>@drawable/papeda</item>
+    </string-array>
+
+    <string-array name="data_place">
+        <item>Nangro Aceh Darusalam</item>
+        <item>Medan</item>
+        <item>Minangkabau</item>
+        <item>Palembang</item>
+        <item>Jakarta</item>
+        <item>Solo</item>
+        <item>Yogyakarta</item>
+        <item>Surabaya</item>
+        <item>Bali</item>
+        <item>Nusa Tenggara Barat</item>
+        <item>Banjar, Kalimantan Selatan</item>
+        <item>Maluku dan Papua</item>
+    </string-array>
+
+    <string-array name="data_ingredient">
+        <item>Mi, daging (kambing atau sapi) atau makanan laut (udang dan ikan), rempah sejenis kari, seledri, daun bawang, bawang merah</item>
+        <item>Tepung tapioka dan sagu, telur, gula, santan</item>
+        <item>Daging sapi, santan kelapa, cabai, bumbu</item>
+        <item>Daging ikan, tapioka, telur ayam, air matang, garam</item>
+        <item>Beras ketan putih, telur ayam atau bebek, ebi, bawang merah goreng, kelapa sangrai, cabai merah, kencur, jahe, merica butiran, garam dan gula pasir</item>
+        <item>Tepung beras, santan kelapa</item>
+        <item>Nangka muda, santan, gula aren, cabai, aneka bumbu, ayam, telur, tempe</item>
+        <item>Moncong sapi,  timun, kerahi, bengkuang, mangga muda, nanas, kedondong, lontong, tahu, tempe, bendoyo, cingur, kecambah/taoge, kangkung, dan kacang panjang</item>
+        <item>Satu ekor ayam yang sudah dibersihkan bagian dalamnya, Bumbu genep, Bumbu wewangenan, Garam dan minyak kelapa.</item>
+        <item>Daging ayam kampung</item>
+        <item>Kuah kaldu ayam</item>
+        <item>Sagu</item>
+    </string-array>
+</resources>
